@@ -1,0 +1,23 @@
+{
+  "name": "node-crawl",
+  "version": "1.0.0",
+  "description": "web crawler for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "crawler",
+    "scraper",
+    "crawl",
+    "scrape"
+  ],
+  "author": "Michael Czechowski <mail@dailysh.it>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "opn": "^4.0.2",
+    "scrape": "^0.2.3"
+  }
+}
