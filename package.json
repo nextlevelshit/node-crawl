@@ -18,6 +18,11 @@
   "dependencies": {
     "express": "^4.14.1",
     "opn": "^4.0.2",
-    "scrape": "^0.2.3"
+    "scrape": "^0.2.3",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^4.3.11"
   }
 }
